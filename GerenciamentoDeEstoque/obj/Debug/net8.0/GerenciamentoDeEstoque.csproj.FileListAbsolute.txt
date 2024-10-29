@@ -1,0 +1,14 @@
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\bin\Debug\net8.0\GerenciamentoDeEstoque.exe
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\bin\Debug\net8.0\GerenciamentoDeEstoque.deps.json
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\bin\Debug\net8.0\GerenciamentoDeEstoque.runtimeconfig.json
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\bin\Debug\net8.0\GerenciamentoDeEstoque.dll
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\bin\Debug\net8.0\GerenciamentoDeEstoque.pdb
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\obj\Debug\net8.0\GerenciamentoDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\obj\Debug\net8.0\GerenciamentoDeEstoque.AssemblyInfoInputs.cache
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\obj\Debug\net8.0\GerenciamentoDeEstoque.AssemblyInfo.cs
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\obj\Debug\net8.0\GerenciamentoDeEstoque.csproj.CoreCompileInputs.cache
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\obj\Debug\net8.0\GerenciamentoDeEstoque.dll
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\obj\Debug\net8.0\refint\GerenciamentoDeEstoque.dll
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\obj\Debug\net8.0\GerenciamentoDeEstoque.pdb
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\obj\Debug\net8.0\GerenciamentoDeEstoque.genruntimeconfig.cache
+C:\Estudos\GerenciamentoDeEstoque\GerenciamentoDeEstoque\obj\Debug\net8.0\ref\GerenciamentoDeEstoque.dll
